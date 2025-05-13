@@ -15,7 +15,10 @@
 La app se ejecuta en http://127.0.0.1:5000
 
 
-![Image](https://github.com/user-attachments/assets/dc4b8145-47f1-4065-b9c7-ded1264636cc)
-![Image](https://github.com/user-attachments/assets/f01419a3-2efe-4403-bcf8-6c6d3f232231)
-![Image]((https://github.com/user-attachments/assets/572f5168-48d8-43f9-bc22-d0bb9a764a87)
-![Image]((https://github.com/user-attachments/assets/b600b1a8-025e-401e-a148-c28079e46165)
+![Image](https://github.com/user-attachments/assets/3a3d3eab-d3fa-4fa9-9d53-e3520618f3c5)
+
+![Image](https://github.com/user-attachments/assets/a5575024-16d6-4b31-b2df-b85f04286088)
+
+![Image](https://github.com/user-attachments/assets/5fa373b7-85e8-4924-b2df-088f3bf41ea5)
+
+![Image](https://github.com/user-attachments/assets/b92c0932-479e-4f76-886f-fb5480c004c1)
