@@ -14,6 +14,7 @@
 
 La app se ejecuta en http://127.0.0.1:5000
 
+https://github.com/BreiikMCdavo/Login_flask/issues/1
 
 ![Image](https://github.com/user-attachments/assets/3a3d3eab-d3fa-4fa9-9d53-e3520618f3c5)
 
